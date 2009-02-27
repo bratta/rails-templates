@@ -1,0 +1,11 @@
+This repository contains some Rails 2.3 templates for generating applications.
+
+The basic template sets up common plugins and gems, including stubbing out an eycap-based deploy.rb file. It also will optionally set up a home controller, and add your project to a git repository.
+
+TODO: 
+* Flesh this file out
+* Configure the plugins included with the basic template
+* Create templates for other broad use cases
+
+Tim Gourley
+tgourley@engineyard.com
