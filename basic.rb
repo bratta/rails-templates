@@ -32,5 +32,5 @@ end
 
 generate :rspec
 
-load_template "/Users/tim/src/rails-templates/capistrano_deploy.rb"
-load_template "/Users/tim/src/rails-templates/git.rb"
+load_template "http://github.com/bratta/rails-templates/raw/master/capistrano_deploy.rb"
+load_template "http://github.com/bratta/rails-templates/raw/master/git.rb"
