@@ -2,6 +2,14 @@ This repository contains some Rails 2.3 templates for generating applications.
 
 The basic template sets up common plugins and gems, including stubbing out an eycap-based deploy.rb file. It also will optionally set up a home controller, and add your project to a git repository.
 
+USING:
+
+rails myapp -m http://github.com/bratta/rails-templates/raw/master/basic.rb
+
+Or clone the repository and do:
+
+rails myapp -m path/to/rails-templates/basic.rb
+
 TODO: 
 * Flesh this file out
 * Configure the plugins included with the basic template
