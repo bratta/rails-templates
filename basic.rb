@@ -1,4 +1,4 @@
-# Generate a very basic Rails 2.3 application
+# Generate a very basic Rails 2.3 application with authentication, upload capabilities, and more
 
 # General plugins
 plugin 'rspec',                  :git => 'git://github.com/dchelimsky/rspec.git'
