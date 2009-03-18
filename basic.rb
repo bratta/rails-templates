@@ -15,7 +15,7 @@ run "mv vendor/plugins/restful-authentication vendor/plugins/restful_authenticat
 # WARNING: In 2.3 RC1, there is a bug that prevents gem:install from working properly
 # See this for more details: 
 # http://rails.lighthouseapp.com/projects/8994/tickets/1750-session_store-initializer-causes-rakegems-tasks-to-break
-gem 'ruby-openid',          :lib => 'ruby-openid'
+gem 'ruby-openid',          :lib => 'openid'
 gem 'RedCloth',             :lib => 'redcloth'
 gem 'mislav-will_paginate', :lib => 'will_paginate', :source => 'http://gems.github.com'
 gem 'capistrano',           :lib => 'capistrano'
